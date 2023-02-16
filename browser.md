@@ -5,3 +5,4 @@ Safari: 198
 Arc: 254
 Orion: 352
 Edge: 147
+Firefox Nightly: 231
